@@ -15,19 +15,25 @@ public class Ogrencibilgisistemi {
         Scanner input = new Scanner(System.in);
 
     System.out.println("===Ogrencibilgisistemi===");
-
+    int n = input.nextInt();
+    
+    // adini iste
     System.out.println("Adinizi giriniz:");
     String adi = input.nextLine();
 
+    // soyadını iste
     System.out.println("Soyadınızı giriniz:");
     String soyad = input.nextLine();
 
+    //örenci numarasını iste
     System.out.println("Oğrenci numaranızı giriniz:");
     int numara = input.nextLine();
 
+    // yasını iste
     System.out.println("Yasınızı giriniz:");
     int yas = input.nextInt();
 
+    // GPA notunu iste
     System.out.println("GPA notunuzu giriniz:");
     double GPA = input.nextDouble();
 
