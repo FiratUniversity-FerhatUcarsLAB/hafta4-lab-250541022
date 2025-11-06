@@ -3,9 +3,7 @@
  * Ogrenci No: 250541022
  * Tarih: 05/11/2025
  * Aciklama: Gorev 2 - Maas Hesap
- * 
- * 
- *
+ * Bir çalışanın maaş bilgilerini hesaplayan detaylı bir program yazın.
  * 
  */
 
